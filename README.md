@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**sumithkarunananda/Sumithkarunananda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Sumith**, an Engineer and Developer based in Saudi Arabia 🇸🇦  
+I enjoy building solutions through clean, efficient code and I'm always eager to learn and grow.
 
-Here are some ideas to get you started:
+## 👨‍💻 What I Do:
+- Engineering & electronics projects
+- Software & web development
+- Skill development training and tech education
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack:
+- Languages: Python, C/C++, JavaScript
+- Tools: Git, Arduino, Raspberry Pi, Visual Studio Code
+- Interests: Embedded systems, automation, web apps
+
+## 📫 Let's Connect:
+Feel free to connect or collaborate on projects!  
+📧 sumith.karunananda@gmail.com  
+🌐 LinkedIn | Twitter | WhatsApp
+
